@@ -1,2 +1,2 @@
  maisPraTi
-Projetos em Java e JS
+Projetos em JS.
